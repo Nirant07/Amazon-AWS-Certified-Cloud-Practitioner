@@ -1,4 +1,4 @@
-Amazon AWS Certified Cloud Practitioner
+🌐 Amazon AWS Certified Cloud Practitioner 🌐
 
 
 Welcome to the Amazon AWS Certified Cloud Practitioner repository! This collection is designed to 
